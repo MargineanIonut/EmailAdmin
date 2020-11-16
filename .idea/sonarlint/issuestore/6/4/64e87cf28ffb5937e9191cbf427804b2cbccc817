@@ -1,0 +1,13 @@
+
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¾ğõr8¾Ìµ†İ.
+6
+java:S1700"Rename field "email"(ª«Õìùÿÿÿÿ8Â‡Ú‡İ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ú­ÎŸ8îšÜ‡İ.
+F
+java:S2140.")Use "java.util.Random.nextInt()" instead.(Â““í8Ş™û‡İ.
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(çª«ëûÿÿÿÿ8›ÑÀˆİ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ¡ß8öÅÉ‡İ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Îëß³úÿÿÿÿ8Öü×†İ.
+X
+java:S1117,";Rename "password" which hides the field declared at line 9.(«ÒÆ–8ÛŸ»‡İ.
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(ôøì¢8˜Áº†İ.
